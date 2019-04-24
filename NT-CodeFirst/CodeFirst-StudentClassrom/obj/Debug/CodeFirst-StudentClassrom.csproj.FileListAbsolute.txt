@@ -1,0 +1,38 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\CodeFirst-StudentClassrom.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\CodeFirst-StudentClassrom.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\CodeFirst-StudentClassrom.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\EntityFramework.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\EntityFramework.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.Form1.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.FormClassroom.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.FormStudent.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.csproj.CopyComplete
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.Migrations.OriginalDB.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.Migrations.OriginalDBNew.resources
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\CodeFirst-StudentClassrom.exe.config
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\CodeFirst-StudentClassrom.exe
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\CodeFirst-StudentClassrom.pdb
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\EntityFramework.dll
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\EntityFramework.xml
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.csprojAssemblyReference.cache
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.Form1.resources
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.FormClassroom.resources
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.FormStudent.resources
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.Migrations.OriginalDB.resources
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.Migrations.OriginalDBNew.resources
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst_StudentClassrom.Properties.Resources.resources
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.csproj.GenerateResource.cache
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.csproj.CoreCompileInputs.cache
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.csproj.CopyComplete
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.exe
+C:\Users\GÜLŞAH SELÇOK\Desktop\Wissen\BitmişProjeler\NT-CodeFirst\CodeFirst-StudentClassrom\obj\Debug\CodeFirst-StudentClassrom.pdb
